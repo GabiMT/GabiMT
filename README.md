@@ -1,2 +1,1 @@
-I'm a Brazilian student. My high school's UniSenac RS, i'm doing systems analysis and development.
-I'm learning all shorts of technology, but I specially like web development. I'm animated to work making websites.
+I'm a Brazilian student. My high school is UniSenac RS, and I'm studying Systems Analysis and Development. I'm learning all sorts of technology, but I especially like web development. I'm excited to work on creating websites.
